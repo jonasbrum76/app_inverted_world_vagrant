@@ -11,7 +11,13 @@ Configure facilmente uma máquina virtual Ubuntu pronta para uso com Vagrant, si
 
 # Instruções de Uso:
 Clone este repositório em sua máquina local.
+
 Execute vagrant up para iniciar a máquina virtual.
+
 Aguarde a conclusão do processo de provisionamento.
+
 Acesse a aplicação hospedada em http:// IP DA VM CONGIGURADO NO VAGRANT FILE.
-Sinta-se à vontade para explorar, contribuir e adaptar conforme necessário para atender às suas necessidades específicas. Simplifique seu processo de desenvolvimento e deployment com esta solução automatizada baseada em Vagrant.
+
+Sinta-se à vontade para explorar, contribuir e adaptar conforme necessário para atender às suas necessidades específicas. 
+
+Simplifique seu processo de desenvolvimento e deployment com esta solução automatizada baseada em Vagrant.
