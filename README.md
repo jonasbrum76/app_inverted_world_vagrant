@@ -2,12 +2,12 @@
 
 Este repositório oferece uma solução automatizada para implantação de uma Máquina Virtual Ubuntu, configuração do servidor Apache e implementação de uma aplicação específica, tudo gerenciado pelo Vagrant.
 
-# Recursos Destacados:
+ Recursos Destacados:
 Configure facilmente uma máquina virtual Ubuntu pronta para uso com Vagrant, simplificando o ambiente de desenvolvimento e garantindo consistência.
 
-# Instalação Automatizada do Apache: Utilizando scripts de provisionamento, o servidor Apache é instalado e configurado automaticamente.
+ Instalação Automatizada do Apache: Utilizando scripts de provisionamento, o servidor Apache é instalado e configurado automaticamente.
 
-# Deploy da Aplicação: Automatize o processo de deploy de sua aplicação no ambiente configurado, garantindo uma integração com o servidor Apache recém-instalado.
+ Deploy da Aplicação: Automatize o processo de deploy de sua aplicação no ambiente configurado, garantindo uma integração com o servidor Apache recém-instalado.
 
 # Instruções de Uso:
 Clone este repositório em sua máquina local.
