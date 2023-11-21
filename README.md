@@ -1,4 +1,4 @@
-# Automação de Deploy com Vagrant: VM Ubuntu, Apache e Aplicação
+# Automação com Vagrant: VM Ubuntu, Apache e Aplicação
 
  Este repositório oferece uma solução automatizada para implantação de uma Máquina Virtual Ubuntu, configuração do servidor  Apache e implementação de uma aplicação específica, tudo gerenciado pelo Vagrant.
 
